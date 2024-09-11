@@ -1,0 +1,7 @@
+D:\Git\TripToPetersburg\TripToPetersburg\bin\Debug\TripToPetersburg.exe.config
+D:\Git\TripToPetersburg\TripToPetersburg\bin\Debug\TripToPetersburg.exe
+D:\Git\TripToPetersburg\TripToPetersburg\bin\Debug\TripToPetersburg.pdb
+D:\Git\TripToPetersburg\TripToPetersburg\obj\Debug\TripToPetersburg.csproj.AssemblyReference.cache
+D:\Git\TripToPetersburg\TripToPetersburg\obj\Debug\TripToPetersburg.csproj.CoreCompileInputs.cache
+D:\Git\TripToPetersburg\TripToPetersburg\obj\Debug\TripToPetersburg.exe
+D:\Git\TripToPetersburg\TripToPetersburg\obj\Debug\TripToPetersburg.pdb
