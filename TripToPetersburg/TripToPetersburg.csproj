@@ -47,6 +47,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sights.cs" />
     <Compile Include="SightsData.cs" />
+    <Compile Include="TripPlanner2.cs" />
+    <Compile Include="TripPlanner.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
